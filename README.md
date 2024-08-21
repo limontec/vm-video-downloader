@@ -16,3 +16,6 @@ Click on the "Open in Colab" button.
 ### For Linux:
 1. sudo apt install ffmpeg
 2. Run the script vm-video-downloader.py with: python vm-video-downloader.py
+
+# How to find the playlist.json?
+Right click on the video > Inspect > Click on the Network tab > Play the video > Right click on "playlist.json?omit=..." > Copy the Request URL.
